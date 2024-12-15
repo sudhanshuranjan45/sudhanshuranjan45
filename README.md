@@ -1,4 +1,4 @@
-<h1 align="left" >Hey there <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/Hi.gif?raw=true" width="30" />, I'm Shivam Singh </h1>
+<h1 align="left" >Hey there <img src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/Hi.gif?raw=true" width="30" />, I'm Sudhanshu Ranjan</h1>
 
 <img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="300" height="400" />
 
